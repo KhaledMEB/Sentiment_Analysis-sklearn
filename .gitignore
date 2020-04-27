@@ -1,0 +1,8 @@
+# Ignore PDFS
+*.pdf
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints
+
+# Ignore saved Models
+*.sav
